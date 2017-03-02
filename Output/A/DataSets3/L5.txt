@@ -1,0 +1,5 @@
+Number of itemsets: 2
+Computation time: 1237204 Nano seconds
+
+[48, 38, 39, 110, 41] : 10
+[48, 38, 39, 36, 41] : 6

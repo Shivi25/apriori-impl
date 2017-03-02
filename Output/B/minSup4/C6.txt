@@ -1,0 +1,3 @@
+Number of itemsets: 0
+Computation time: 164721 Nano seconds
+

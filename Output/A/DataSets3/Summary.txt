@@ -1,0 +1,6 @@
+MinSupport: 6
+Total T(C):1362064400 Nano Seconds
+Total T(L):1343423735 Nano Seconds
+Total time: 2705488135 Nano Seconds
+Frequent itemsets: 2
+Infrequent itemsets: 8351
